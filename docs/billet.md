@@ -8,7 +8,7 @@
  - Horaire de la conférence : 22 septembre 2017 16h45 - 17h45
  - Durée de la conférence : 1 heure
  - Conférencier(s) :
-   - François SALAZAR
+   - François SALAZAR : https://www.linkedin.com/in/francois-salazar-1a04456/ et https://fr.slideshare.net/francois_salazar
  - Audience : Amphithéatre à demi-rempli
  - Auteur du billet : Mélanie DUMONT
  - Mots-clés : conduite de changement
