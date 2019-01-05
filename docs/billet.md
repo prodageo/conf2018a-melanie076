@@ -12,8 +12,7 @@
  - Audience : Amphithéatre à demi-rempli
  - Auteur du billet : Mélanie DUMONT
  - Mots-clés : conduite de changement
- - URL de l'illustration : ![Mettre votre image, Photo by Oscar Keys on Unsplash](oscar-keys-58399-unsplash.jpg)
-   - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
+ - URL de l'illustration : ![L'homme est illogique, extrait d'une BD des avantures de TINTIN](tintin.jpg)
 
 ## Support
  * Lien vers le support (diapos) présenté en conférence : https://fr.slideshare.net/francois_salazar/agile-pays-basque-2017-parcequon-ne-change-pas-une-culture-comme-on-change-une-roue-de-voiture
