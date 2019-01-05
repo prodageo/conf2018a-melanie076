@@ -9,7 +9,7 @@
  - Durée de la conférence : 45 minutes
  - Conférencier(s) :
    - François SALAZAR : https://www.linkedin.com/in/francois-salazar-1a04456/ et https://fr.slideshare.net/francois_salazar
- - Audience : Amphithéatre à demi-rempli
+ - Audience : Amphithéatre semble à demie-remplie
  - Auteur du billet : Mélanie DUMONT
  - Mots-clés : conduite de changement, culture d'entreprise, croyance.
  - URL de l'illustration : ![L'homme est illogique, extrait d'une BD des avantures de TINTIN](tintin.png)
@@ -29,8 +29,8 @@
 ## Résumé
 La culture est comme un trou noir, on ne voit que ces effets, ces traces. 
 
-Le changement lorsqu’il concerne un changement matériel est de type procédural. Il ne remet pas en cause des fondamentaux. Mais lorsqu’il concerne un aspect immatériel (la culture, la croyance, la vision de la réalité), il est souvent mal mené et apporte peu de positif du point de vue de ceux qui l’on subit.
-4
+Le changement, lorsqu’il concerne un changement matériel, est de type procédural. Il ne remet pas en cause des fondamentaux. Mais lorsqu’il concerne un aspect immatériel (la culture, la croyance, la vision de la réalité), il est souvent mal mené et apporte peu d'effet positif.
+
 Dans une entreprise, quand on a besoin d’un changement immatériel, il est inutile d’utiliser une méthode de changement matériel. Elle ne fonctionne pas sur des humains. 
 
 On discerne deux types de changement, le type I où on reste dans une même logique et le type II où on change complètement les règles du jeu. 
@@ -40,6 +40,6 @@ Il n’existe pas de méthode de changement ou de feuille de route à suivre. On
 ## Architecture et facteur qualité
 Cette conférence ne parle pas d'un outil technique en particulier ou d'une méthode de travail donc il est difficile d'y relier un facteur qualité particulier. 
 
-Cependant, si on arrive à comprendre et changer les cultures et croyances des employers en entreprise alors il sera plus facile d'intégrér des nouvelles méthodes de travail ou des nouveaux outils et ainsi en fonction du changement à instaurer, il pourrait y avoir une impact sur n'importe lequel des critères de qualité (que ce soit ceux de Mc Call ou d'un autre).
+Cependant, si on arrive à comprendre et changer les cultures et croyances des employers en entreprise alors il sera plus facile d'intégrér des nouvelles méthodes de travail ou des nouveaux outils. Ainsi, en fonction du changement à instaurer, il pourrait y avoir un impact sur n'importe lequel des critères de qualité (que ce soit ceux de Mc Call ou d'un autre).
 
-La façon de penser de l'homme est souvent illogique. Faire changer un homme d'avis est souvent peine perdu. Ainsi, celui qui parvient à comprendre cette illogisme est alors capable d'amener du changement des les mentalités. Enfin, je dirais qu'on ne peut pas imposer un changement, il faut plutot ammener l'homme à penser que ce changement vient de lui pour qu'il soit accepter.
+La façon de penser de l'homme est souvent illogique. Faire changer un homme d'avis est souvent peine perdu. Ainsi, celui qui parvient à comprendre cette illogisme est alors capable d'amener du changement dans les mentalités. Enfin, je dirais qu'on ne peut pas imposer un changement, il faut plutot ammener l'homme à penser que ce changement vient de lui pour qu'il soit accepté.
