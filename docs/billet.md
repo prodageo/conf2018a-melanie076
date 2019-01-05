@@ -11,7 +11,7 @@
    - François SALAZAR : https://www.linkedin.com/in/francois-salazar-1a04456/ et https://fr.slideshare.net/francois_salazar
  - Audience : Amphithéatre à demi-rempli
  - Auteur du billet : Mélanie DUMONT
- - Mots-clés : conduite de changement
+ - Mots-clés : conduite de changement, culture d'entreprise, croyance.
  - URL de l'illustration : ![L'homme est illogique, extrait d'une BD des avantures de TINTIN](tintin.png)
 
 ## Support
