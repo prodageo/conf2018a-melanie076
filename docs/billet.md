@@ -6,7 +6,7 @@
  - Lieu : ESTIA - Bidart
  - Conférence : Parce qu'on ne change pas une culture comme on change une roue de voiture.
  - Horaire de la conférence : 22 septembre 2017 16h45 - 17h45
- - Durée de la conférence : 1 heure
+ - Durée de la conférence : 45 minutes
  - Conférencier(s) :
    - François SALAZAR : https://www.linkedin.com/in/francois-salazar-1a04456/ et https://fr.slideshare.net/francois_salazar
  - Audience : Amphithéatre à demi-rempli
@@ -17,8 +17,15 @@
 
 ## Support
  - Lien vers le support (diapos) présenté en conférence : https://www.infoq.com/fr/presentations/culture-francois-salazar
- - Nombre de diapos du support :
- - Plan du support :
+ - Nombre de diapos du support : 42
+ - Plan du support : 
+ Introduction
+ Qu'est ce qu'une culture ?
+ Qu'est ce qu'un changement ?
+  Type I et Type II
+ Pourquoi est-ce si difficile ?
+ Que peut-on y faire ?
+ Conclusion
 
 ## Résumé
 ...
