@@ -16,16 +16,16 @@
    - quelques sources : https://unsplash.com, https://xkcd.com/, http://dev.to/rly, ...
 
 ## Support
- - Lien vers le support (diapos) présenté en conférence : https://www.infoq.com/fr/presentations/culture-francois-salazar
+ - Lien vers le support (diapos) présenté en conférence : https://fr.slideshare.net/francois_salazar/agile-pays-basque-2017-parcequon-ne-change-pas-une-culture-comme-on-change-une-roue-de-voiture
  - Nombre de diapos du support : 42
  - Plan du support : 
- Introduction
- Qu'est ce qu'une culture ?
- Qu'est ce qu'un changement ?
+ * Introduction
+ * Qu'est ce qu'une culture ?
+ * Qu'est ce qu'un changement ?
   Type I et Type II
- Pourquoi est-ce si difficile ?
- Que peut-on y faire ?
- Conclusion
+ * Pourquoi est-ce si difficile ?
+ * Que peut-on y faire ?
+ * Conclusion
 
 ## Résumé
 ...
