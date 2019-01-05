@@ -28,7 +28,15 @@
    * Conclusion
 
 ## Résumé
-...
+La culture est comme un trou noir, on ne voit que ces effets, ces traces. 
+
+Le changement lorsqu’il concerne un changement matériel est de type procédural. Il ne remet pas en cause des fondamentaux. Mais lorsqu’il concerne un aspect immatériel (la culture, la croyance, la vision de la réalité), il est souvent mal mené et apporte peu de positif du point de vue de ceux qui l’on subit.
+
+Dans une entreprise, quand on a besoin d’un changement immatériel, il est inutile d’utiliser une méthode de changement matériel. Elle ne fonctionne pas sur des humains. 
+
+On discerne deux types de changement, le type I où on reste dans une même logique et le type II où on change complètement les règles du jeu. 
+
+Il n’existe pas de méthode de changement ou de feuille de route à suivre. On parle plutôt d’une démarche de changement. Elle consiste à utiliser les événements de vie, d’apprendre et d’itérer pour que le système comprenne le système. Le principe est d’utiliser des changements de type I pour amener des réactions, des résistances, révéler des boucles... Puis d’utiliser des changements de type II pour déboucler et changer de mécanique. Mais il est important de souligner que ce genre de changement prend du temps.
 
 ## Architecture et facteur qualité
 ...
